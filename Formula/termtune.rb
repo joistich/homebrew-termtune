@@ -9,9 +9,9 @@
 
 class Termtune < Formula
   desc "Lightweight terminal YouTube audio player"
-  homepage "https://github.com/YOUR_GITHUB_USERNAME/termtune"
-  url "https://github.com/YOUR_GITHUB_USERNAME/termtune/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  homepage "https://github.com/joistich/termtune"
+  url "https://github.com/joistich/termtune/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "f1992c73c544f66e99e28e6c1629e9162d6a842c182d206f86977ef39bd7764b"
   license "MIT"
 
   depends_on "rust" => :build
